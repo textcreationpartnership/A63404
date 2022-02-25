@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and impartial narrative of the eminent hand of God that befell a Quaker and his family at the town of Panton in Lincolnshire, who affirmed he was commanded of God to pronounce Mr. Ralph James preacher of the Gospel a leper ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63404</idno>
+            <idno type="STC">Wing T2498</idno>
+            <idno type="STC">ESTC R34672</idno>
+            <idno type="EEBO-CITATION">14560595</idno>
+            <idno type="OCLC">ocm 14560595</idno>
+            <idno type="VID">102580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1076:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and impartial narrative of the eminent hand of God that befell a Quaker and his family at the town of Panton in Lincolnshire, who affirmed he was commanded of God to pronounce Mr. Ralph James preacher of the Gospel a leper ...</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained and with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102580:1" rendition="simple:additions"/>
+            <p>A True and Impartial NARRATIVE OF THE <hi>Eminent Hand of God that Befell</hi> A QUAKER And his <hi>FAMILY,</hi> At the Town of <hi>Panton</hi> in <hi>Lincolnſhire;</hi> WHO Affirmed he was commanded of <hi>GOD</hi> to Pronounce Mr. <hi>Ralph James</hi> Preacher of the <hi>GOSPEL</hi> A LEPER FROM <hi>The Crown of the Head to the Sole of the Foot:</hi> The ſame Judgment of LEPROSIE ſhortly after falling upon one of his Children; himſelf, Wife, and the reſt of his Children, being alſo Afflicted with a painful Diſtemper.</p>
+            <p>
+               <hi>Atteſted under the Hands of ſeveral Credible Perſons, Eye and Ear Witneſſes.</hi>
+            </p>
+            <p>
+               <hi>As by the</hi> NARRATIVE <hi>will more at large appear.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Smith,</hi> at the <hi>Elephant</hi> and <hi>Caſtle</hi> without <hi>Temple Barr.</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102580:2"/>
+            <pb n="1" facs="tcp:102580:2"/>
+            <head>A True and Impartial NARRATIVE OF THE Eminent Hand of God, that befel a Quaker and his Family, at the Town of <hi>Panton</hi> in <hi>Lincolnſhire.</hi>
+            </head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>N February</hi> laſt, one <hi>Mr. Benja<g ref="char:EOLhyphen"/>min Morley,</hi> a Perſon well known to Thouſands in this City, and of good Repute, dwelling in the Town of <hi>Ravenſthorpe,</hi> in the County of <hi>Northampton,</hi> coming then to <hi>London,</hi> to give his Son, that is a Shop keeper at the <hi>Kings Arms</hi> in the <hi>Market place</hi> in <hi>Southwark</hi> a viſit, among other paſſages of Providence that he had heard or obſer<g ref="char:EOLhyphen"/>ved of the Works of God, ſince his laſt being in <hi>London,</hi> he took an occaſion to ſpeak of his being lately in <hi>Lin<g ref="char:EOLhyphen"/>colnſhire</hi> to viſit the Churches, and having there heard by ſome perſons, ſome Hints of a memorable hand of God, that had befallen a Quaker and his Family in that County, and being unwilling (if Truth) ſuch a mighty Providence ſhould paſs, without the utmoſt Teſtimony of its Certainty, reſolved with himſelf, to ride on purpoſe to the Town of <hi>Northwillingham,</hi> ſome ten Miles be<g ref="char:EOLhyphen"/>yond <hi>Lincolne,</hi> and accordingly did, and there recei<g ref="char:EOLhyphen"/>ved the Subſtance of this following Diſcourſe, from <hi>Mr. Ralph James</hi> Elder of the Church, his own Mouth, and was ſo ſatisfied in the truth of what is here atteſted,
+<pb n="2" facs="tcp:102580:3"/>knowing the Sobriety and Worthineſs of the Teſtor, who with great Humility, aſcribing the Glory onely to God, gave him an Account from firſt to laſt, of all material Circumſtances relating to this mighty Providence, which ſeveral Miniſters in <hi>London,</hi> and other Intelligible Chriſtians, hearing an Accompt of, from the aforeſaid <hi>Mr. Benjamin Morley,</hi> were very deſirous to have it Related more at large, from the Eye and Ear witneſſes of the Place where theſe things had happened, deſi<g ref="char:EOLhyphen"/>ring alſo, that it might be atteſted under the Hands of ſeveral Inhabitants, that it might gain Credit in the minds of all that ſhould hear of it, anſwerable to its weighty worth; did therefore requeſt one <hi>Mr. John Green,</hi> now dwelling in the <hi>New Rents</hi> near <hi>Deadmans place</hi> in <hi>Southwark,</hi> whoſe Birth was within two Miles of this Town of <hi>Northwillingham,</hi> and alſo that well knows the Elder of the Church there, and had had the ſame Re<g ref="char:EOLhyphen"/>lation ſome time ſince from his own Mouth, to write this following Letter.</p>
+            <div type="letter">
+               <head>
+                  <hi>Beloved Brother</hi> Ralph James,</head>
+               <p>I Am by ſeveral Worthy Chriſtians in <hi>London,</hi> de<g ref="char:EOLhyphen"/>ſired to intreat you, to ſend us an Account in VVriting, as full and as clear as it is poſſible for you to remember, of what paſſed between your ſelf and <hi>Richard Anderſon</hi> of <hi>Panton,</hi> that was the Quaker, con<g ref="char:EOLhyphen"/>cerning the Leproſie that befel his Child, and that Sore-Pain that befel himſelf, his VVife, and the reſt of his Children; for in truth, it is utterly denied by the Quakers in <hi>London,</hi> they ſay 'tis a falſe forged Lie of the Independant and Baptiſt People; And in<g ref="char:EOLhyphen"/>deed it is ſcarce credited by any, that ſo viſible a Handiwork of the Great God, to the Glory of his great Truth, and for the Reputation of the Holy
+<pb n="3" facs="tcp:102580:3"/>Scriptures, as being the Rule for his people to walk and ſquare their Lives by, could be concealed from a Publication, under ſeveral Credible perſons Hands, as were Eie and Ear witneſſes, that ſo the Truth may be vindicated, to the Praiſe of God, and their Mouths ſtopped that do gainſay it, and by the good Bleſ<g ref="char:EOLhyphen"/>ſing of Heaven, thoſe poor deluded people called Quakers that are not hardned, may take ſeaſonable advice from this Land-mark of Providence, to repent of their Grand Sin, of ſetting up a Light within for a ſtanding rule, that Men and VVomen muſt walk after, rather then give heed to the Holy Scriptures, calling that a dead Letter, and the Ordinances it calls upon us, to be found till Chriſts perſonal coming in the practice of Carnal, Low, and empty Services; This is the Subſtance of what I am deſired at this time to write unto you, ſo with my intire Love to your ſelf and Family, begging your daily Prayers to God for me, and intreating your ſpeedy Anſwer, I reſt</p>
+               <closer>
+                  <signed>
+                     <hi>Your truly affectionate, though unworthy Brother</hi> John Green.</signed>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>this 12 of <hi>Feb.</hi> 1671.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Here followeth <hi>Mr. Ralph James</hi> the Elder, his Anſwer to this Letter;</head>
+               <opener>
+                  <salute>
+                     <hi>Brother</hi> Green,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Have received your Letter, wherein I underſtand you de<g ref="char:EOLhyphen"/>ſire, that I would ſend you a Copy of that Diſcourſe, and the handy work of God that appeared betwixt me and a Quaker, I cannot by this Poſt anſwer your deſires, for I muſt have a little more time; I will ſhew you the Reaſons;
+<pb n="4" facs="tcp:102580:4"/>there was ſome time ago a diſpute betwixt the Independants and the Quakers, and I was deſired by ſome of the Inde<g ref="char:EOLhyphen"/>pendants to be preſent, and I did then amongſt other things tell them, of this that paſt betwixt the Quaker and me; and in the ſame Month I was at <hi>Raſon</hi> Fair, where I met with him that was the Quaker, namely <hi>Richard Anderſon,</hi> and ſo I deſired him that he would go with me to one <hi>Peter Stacy,</hi> who was at that Meeting at that time, and was in the Town at that day; he is an Independant, and declare what paſt betwixt him and me, and the Handiwork of God that was upon him, his Wife, and Children; I ſaid to him, I had no end nor purpoſe in what I deſired of him to ſpeak, but that God might be Honoured, ſo he did relate before <hi>Peter Stacy</hi> of <hi>Brigg,</hi> an Independant, and <hi>Tho<g ref="char:EOLhyphen"/>mas Kidd</hi> of <hi>Donnington</hi> a Baptiſt, the whole Cir<g ref="char:EOLhyphen"/>cumſtance, as by the Bleſſing of God, I will endeavour to give you an Account, as ſpeedily as I can: my Reaſon that I could not ſend it at this time is, becauſe the Congregation where we ſought to God for his Reſtauration, and the per<g ref="char:EOLhyphen"/>ſons that he related it to ſince, do live many Miles di<g ref="char:EOLhyphen"/>ſtant one from another, ſo that I muſt have a little time to get their Hands to it; no more at preſent, b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> my Chriſtian Love to you, I reſt,</p>
+               <closer>
+                  <signed>Your truly Loving though unworthy Brother in the Lord Ralph James.</signed>
+                  <dateline>Northwillingham, <date>Feb. <hi>26. 1671.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Here followeth the Second Letter from <hi>London,</hi> by way of Anſwer to this preceding Letter.</head>
+               <opener>
+                  <salute>
+                     <hi>Beloved Brother</hi> Ralph James.</salute>
+               </opener>
+               <p>I Received your Letter Dated <hi>February</hi> 26 1671. and have Communicated the ſame to ſeveral wor<g ref="char:EOLhyphen"/>thy Miniſters, and other Chriſtians, to their great ſa<g ref="char:EOLhyphen"/>tisfaction,
+<pb n="5" facs="tcp:102580:4"/>who now are perſwaded, what was repor<g ref="char:EOLhyphen"/>ted in <hi>London</hi> concerning the Leproſie, is not an inven<g ref="char:EOLhyphen"/>ted Fable, but will in due time, and with the good Bleſ<g ref="char:EOLhyphen"/>ſing of God, prove as uſeful a Truth, as indeed it is eminent: They look upon it to be ſuch a witneſs of God, and indeed ſo little leſs then a Miracle, that ſhould you hold your peace, it might prove your great Sin, eſpecially conſidering God himſelf hath given ſuch a Deciſion of that great Controver<g ref="char:EOLhyphen"/>ſie now on foot, between thoſe poor deluded People called Quakers, and the whole Chriſtian Profeſſion in <hi>England,</hi> namely, whether the Scriptures be the Standard to try Spirits by, or whether the Spirit be the Standard to try the Scriptures by; that ſuch a Con<g ref="char:EOLhyphen"/>tention ſhould be between yourſelf and the Quaker, you for the Scriptures to be the Rule to walk by, he for the Light within, to be the Rule to walk by; And that as he told you, the ſame Spirit or Light within, did Command him to pronounce you a Le<g ref="char:EOLhyphen"/>per, from the Crown of the Head to the Sole of the Foot, for ſaying he was Deluded, and a falſe Pro<g ref="char:EOLhyphen"/>phet, and that the Quakers Light within, was not the Truth or Rule to walk by, but that he and they, were a poor Deceived people; that God in juſt Judg<g ref="char:EOLhyphen"/>ment ſhould meet ſuch Confidence, with the ſame Meaſure he meted and pronounced againſt you, is a matter worthy to be known, and Read of all Men, to the everlaſting praiſe of Gods Grace, that in this our day, hath thus added ſtrength to the weak Hands and feeble Knees of his poor people, in the vindi<g ref="char:EOLhyphen"/>cation of the Scriptures of Truth, that was more to <hi>Job</hi> and <hi>David,</hi> then their neceſſary Food; but I ſhall not farther inlarge at this time, yet give my hearty thanks for your Letter, and earneſtly requeſt, that as ſpeedily as is poſſible, you will ſend up a full Nar<g ref="char:EOLhyphen"/>rative,
+<pb n="6" facs="tcp:102580:5" rendition="simple:additions"/>under the hands of ſeveral that were Eye and Ear witneſſes; I think meet alſo to tell you, that ſe<g ref="char:EOLhyphen"/>veral Quakers here in <hi>London</hi> ſay, they have ſince this Report hath been abroad writ into <hi>Lincolnſhire,</hi> and can hear of no ſuch Man or Thing, but ſay it is a very falſe Story raiſed on purpoſe, to blemiſh what they call Gods Truth, and that now there is a Qua<g ref="char:EOLhyphen"/>ker in <hi>London</hi> from your parts, to proteſt againſt the verity of what is atteſted; but this doth not in the leaſt give us doubt of the Truth of your Teſtimony, neither are we affraid of the Face of any that ſhall dare to obſcure ſo eminent a Finger of Heaven, but ſhall God aſſiſting, ſpeedily make it Publick for his Truths ſake, and do from our hearts account it our bounden Duty in every Prayer, to give thanks to his Name, for ſo eminent a handiwork, to the ſtrength<g ref="char:EOLhyphen"/>ning our hands after a daily increaſe in love, and eſti<g ref="char:EOLhyphen"/>mation of the Bleſſed worth of the Holy Scriptures, as a Lamp for our Feet, and the more ſure word of Propheſie, unto which we ſhall certainly do well, that we take heed as unto a Light, that ſhineth in a dark place; But before I conclude, I muſt make it my earneſt Requeſt, that you will give us a few Lines of the Reaſons why this great Handy work of God hath been ſo long Concealed from Publication, in which Service you may give great ſatisfaction to many here in <hi>London,</hi> that much wonder it hath not been much more talked of, and openly ſpread in every place, to the Honour of God, and deterring of poor ignorant perſons, from running after thoſe deluded people called Quakers: thus with my poor Prayers to Almighty God for your aſſiſtance in this and all your Services for his Name and People, I reſt</p>
+               <closer>
+                  <signed>Your truly Affectionate though unworthy Brother, John Green.</signed>
+                  <date>
+                     <hi>March</hi> 26 1672<g ref="char:punc">▪</g>
+                  </date>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="7" facs="tcp:102580:5" rendition="simple:additions"/>
+               <opener>
+                  <salute>Loving Brother,</salute>
+               </opener>
+               <p>ALthough it hath been very long, yet I could not help it, by reaſon ſome of the Teſtors live many Miles diſtant. But here I have ſent you a True Relation of the Diſcourſe, and in ſhort what paſſed betwixt me, and the <hi>Quaker,</hi> the Heads of every particular that I can juſtly remember; and as concerning your deſires, why ſo Eminent a thing was not made known ſooner, it had been publiſhed at that preſent, but that a Slaviſh Feare poſſeſſed me, think<g ref="char:EOLhyphen"/>ing that Friends and others that had ſeen it, would have thought that I had gloried in it: for, when that it was come to light by Brother <hi>Stanley,</hi> as having ſome ac<g ref="char:EOLhyphen"/>count of it from one of my Men, and then queſtioning of me, I was very much poſſeſſed with fear in the Telling of it, as if, that if I ſhould tell it, I ſhould have it thought I glory'd in it, and ſo hath diſcouraged me, that when I have been telling of it, I have told it but in part; ſo that as it was wrought by the hand of God, ſo it is now brought to light by the ſame hand of God. As for your deſire for ſeveral friends hands to atteſt the truth of this Relation, I returne you this anſwer; Firſt, you have <hi>Thomas Baldock,</hi> who was an eye and eare-witneſs of every particular where we ſought God, he hath ſign<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d it with his hand. And then you have <hi>Peter Stacy</hi> an <hi>Indepen<g ref="char:EOLhyphen"/>dant,</hi> who had the Relation from the <hi>Quakers</hi> own Mouth, before ſeveral other Witneſſes, and alſo <hi>John Laming,</hi> whoſe Sick Child the <hi>Quaker</hi> ſaid he had a Command from God to Cure; who doth atteſt that the Aſſertion is true: And, as for my Brother and my ſelf, we went to him the <hi>29th</hi> of <hi>Febru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry</hi> laſt, viz. <hi>Richard Ander<g ref="char:EOLhyphen"/>ſon,</hi> and examined him again, and he confeſſed what is in the Aſſertion to be true; as for the Man, he never went to the <hi>Quakers</hi> more, but came to our Meetings, till a Warrant came to break them up, and then he went away<g ref="char:punc">▪</g> his Wife and that Childe that was all over ſpotted is dead:
+<pb n="8" facs="tcp:102580:6"/>ſince I received your <hi>Letter</hi> there hath been two <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> at me to know the Truth of this Relation, and I told them it as it is aſſerted, and they went away <hi>VERY SAD,</hi> and told me, That they believed me; and they ſhowed me <hi>A LETTER</hi> that they had from <hi>London,</hi> to inquire about it; I told them the Mans Name, and the place of his abode: No more, but my Chriſtian Love to you, and to the Reſt of our Friends, though unknown, I reſt, expecting an Anſwer,</p>
+               <closer>
+                  <signed>Your unworthy Brother in the Lord <hi>Ralph James.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Northwillingham,</hi> 
+                     <date>April <hi>27. 1672.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="narrative">
+               <head>The Narrative.</head>
+               <p>
+                  <hi>RIchard Anderſon</hi> of <hi>Panton,</hi> about Ten miles from <hi>Lincolne,</hi> came to our Meeting at <hi>Northwilling<g ref="char:EOLhyphen"/>ham,</hi> to hear the Goſpel Preached; who, when he had been a Hearer for ſome time, was Convinced, and ſaid, he did believe, that <hi>Baptiſme</hi> in <hi>Water</hi> was an <hi>Or<g ref="char:EOLhyphen"/>dinance</hi> of God: and that both Men and Women ought to be Baptiſed in Water, as taking <hi>Jeſus Chriſt</hi> for our Leader and Example, ſo he went away at that time; but, before he came again, he met with the People called <hi>Quakers,</hi> who told him (as him<g ref="char:EOLhyphen"/>ſelf Confeſſed) that he muſt not look upon thoſe out<g ref="char:EOLhyphen"/>ward Ordinances, for they were low, but that now he muſt minde the Light within, and be guided by it, and not by the Scriptures, for they were <hi>A DEAD LETTER:</hi> To which Light he gave ſuch heed, that when he came to our Meeting again, he much con<g ref="char:EOLhyphen"/>tended againſt the <hi>Baptiſme</hi> of <hi>Water,</hi> and ſaid, that now they were to be Baptiſed with the Baptiſme of the Spirit, and not with Water, for the Spirit was to try the Scriptures, and not the Scriptures to try the Spirit. In Anſwer to which, I ſaid, that I believ'd that the <hi>Scriptures</hi> were to try the <hi>Spirit,</hi> and not the
+<pb n="9" facs="tcp:102580:6"/>
+                  <hi>Spirit</hi> to try the <hi>Scriptures:</hi> he ſeemingly <hi>made light of it,</hi> and ſaid, That now we muſt mind the <hi>LIGHT WITHIN;</hi> in anſwer to which, I ſaid I was afraid that the Quakers were deceiv'd, and guided by a Spirit of Deluſion, and that it was my Judgment, that all the Sons and Daughters of Men ought to be Guided by the Scriptures: very much Diſcourſe was betwixt us at that time, I, in the Vindication of the Scriptures as being the Oracle of God, and the Rule for us to walk by; and he for <hi>the Light within,</hi> to be the Rule for the Sons and Daughters of Men to be guided by: But, as for every particular of our Diſcourſe, it is out of my remembrance, ſo he went away at that time. And the <hi>Light</hi> which the <hi>Quakers</hi> did tell him (as he ſaid) he muſt be guided by, Commanded him within a ſhort time after, ſo that he came very early one morning to my Houſe, and enquired for me; ſo I went to him, and he told me that he was Commanded of God to come and reprove me for Speaking againſt the People of God, (as he ſaid) called Quakers, and to Exhort me to turn to the Light within, or elſe he was, as he ſaid. Commanded of God to Pro<g ref="char:EOLhyphen"/>nounce a Judgment againſt me: I told him that I thought him to be a Falſe Prophet, and poſſeſſed with a ſpirit of Deluſion, (then he ſaid) he was Com<g ref="char:EOLhyphen"/>manded of God to Pronounce me <hi>A LEPER;</hi> and he did, <hi>from the Crown of the Head to the Sole of the Foot.</hi> In Anſwer to theſe words, I ſaid to him, through Gods Goodneſs I am not diſcouraged at what thou ſayeſt, but do believe that thou art <hi>a falſe Prophet,</hi> and poſſeſſed with <hi>a Spirit of Deluſion,</hi> and that I am not to take any notice of what thou ſayeſt; but I do de<g ref="char:EOLhyphen"/>ſire with all my heart that the Lord would be pleaſed to let thee ſee thy Evill, and the Error of thy way, that thou mayeſt repent, and confeſs thy Error, that the Name of God may honoured, his wayes and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:102580:7"/>eſtabliſhed and confirmed in his wayes and appoint<g ref="char:EOLhyphen"/>ments: So we parted, and he went a little way from me, but returned again, and ſaid unto me, Thou ſay<g ref="char:EOLhyphen"/>eſt that I am <hi>a falſe Prophet,</hi> deceived, and poſſeſſed with <hi>a ſpirit of Deluſion,</hi> but it will be known <hi>by me or mine, or thee,</hi> whether I be <hi>A TR<g ref="char:V">Ʋ</g>E PROPHET, OR A FALSE ONE,</hi> and ſo he went home; but within a ſhort time after he came home, the Lord was pleaſed to ſmite one of his Children (as he ſaid) ſpot<g ref="char:EOLhyphen"/>ted all over, Himſelf and VVife, and his other Chil<g ref="char:EOLhyphen"/>dren with a reſtleſs Pain in their Bodies alſo, ſo that he was forced (as he ſaid) to come again, and CON<g ref="char:EOLhyphen"/>FESSED he was Deceived, and that he was <hi>a Falſe Prophet;</hi> and the <hi>ſame Judgment</hi> he had <hi>Pronounced</hi> a<g ref="char:EOLhyphen"/>gainſt Me, was fallen upon one of his Children, and that Himſelf, and his VVife, and his other Children were taken with a reſtleſs Pain in their Bodies; and he ſaid, That he and his wife did believe, that if I would Pray to God for them, they might all be reſto<g ref="char:EOLhyphen"/>red again to their former healths. In Anſwer to his words, I told him, I could not at preſent give him an Anſwer, but if he and his wife would pleaſe to meet me at <hi>Dunnington,</hi> where I am to be by Promiſe the next Lords Day, it may pleaſe God that his deſire might then be anſwered. He being very ſad at that time, I fell a ſpeaking to him, and asking him ſome Queſtions about the Light within, which the <hi>Quakers</hi> bad him mind, and be guided by; and he told me, that that Light many times, would, when he had fat down to <hi>eate his Meate,</hi> and had drawn his Knife to cut it, have commanded him <hi>to put it up again,</hi> and ſo he ſaid he had done for ſeveral times, and gone <hi>without his Meate,</hi> and that Light alſo, (as he ſaid) perſwaded him to <hi>Fast,</hi> and told him, That he ſhould <hi>Cure the ſick,</hi> in obedience to which perſwaſion he did Faſt, and c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me to our Town of <hi>Northwillingham,</hi> to the Houſe of
+<pb n="11" facs="tcp:102580:7"/>one <hi>John Laming,</hi> whoſe Child was then ſick and weak, and he told me, he went to Cure their Child, but that Light and Perſwaſion did deceive him, for he now ſaw he could not Cure the Sick. So according to my promiſe I went to <hi>Dunnington,</hi> and he and his wife met me there amongſt our Friends, and did both Confeſs what is here before-mentioned, who alſo deſired our Prayers to God for them; and ſo I with the <hi>Congregation</hi> there met together, did ſeek unto God, for the removing of that Diſtemper and Affliction which he with his wife there Confeſſed, that they and their Children were un<g ref="char:EOLhyphen"/>der; and the Lord was Mercifully pleaſed to hear our poor Prayers for them, and to reſtore them all to their former health again, which he himſelf Confeſſed when he came to our Meetings afterwards, to the Praiſe of God alone for ever be it ſpoken.</p>
+               <closer>This Relation is True,
+<dateline>Witneſs my Hand, <date>this 27th of <hi>Aprill,</hi> 1672</date>
+                  </dateline>
+                  <signed>
+                     <hi>Ralph James</hi> of <hi>Northwillingham,</hi> in the County of <hi>Lincolne.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <head>Now Followeth the Teſtimony of the other <hi>Witneſſes</hi> ſpecifyed in the <hi>Letter.</hi>
+               </head>
+               <p>
+                  <hi>I Peter Stacy</hi> being in <hi>September</hi> the 14th at <hi>Raſon</hi>-Faire, and by occaſion of a Diſpute betwixt ſome <hi>Independants</hi> and <hi>Baptiſts</hi> with the <hi>Quakers</hi> at <hi>Rouby,</hi> the Truth of this above ſaid Relation our Friends there preſent deſired to know, and then did <hi>Ralph James</hi> bring <hi>Richard Ander<g ref="char:EOLhyphen"/>ſon</hi> the aforeſaid <hi>Quaker,</hi> on whom the Judgment ſpecifyed had been inflicted, who owned the Truth of this Relation before them all.</p>
+               <closer>
+                  <dateline>Witneſs my Hand <date>this <hi>24</hi> of <hi>February, 1671/2.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Peter Stacy.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <pb n="12" facs="tcp:102580:8"/>
+               <head>The next Teſtimony is that of <hi>John Laming,</hi> mentioned in the <hi>Letter.</hi>
+               </head>
+               <p>AS touching what is aſſerted in this Paper by <hi>Ralph James,</hi> I atteſt it to be Truth, and that <hi>Richard Anderſon</hi> the aforeſaid <hi>Quaker</hi> did come to my Houſe to Bleſs my Sick Child, and ſaid, <hi>God Bleſs thee, for I was ſent to Bleſs thee,</hi> and ſtroaked him on the Head.</p>
+               <closer>
+                  <dateline>Witneſs my Hand <date>this 18th of <hi>Aprill 1672.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>John Laming</hi> of <hi>Northwillingham,</hi> in the County of <hi>Lincolne.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <head>Next is the Teſtimony of <hi>Tho. Baldocke,</hi> who was an Eye and Eare-Witneſs, and preſent where Prayer was put up to God.</head>
+               <p>AS touching <hi>Richard Anderſon</hi> a <hi>Quaker,</hi> and his Wifes coming to <hi>Donnington,</hi> and deſiring the Churches Prayers for the Recovery of that Great <hi>Judgment,</hi> that (as they owned) God was pleaſed to lay upon them, I atteſt to be Truth.</p>
+               <closer>
+                  <dateline>Witneſs my Hand <date>this 18th of <hi>Aprill, 1672.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Thomas Baldocke.</signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <head>The next is the Teſtimony of <hi>Thomas Iames.</hi>
+               </head>
+               <p>FEbruary <hi>29, 1671/2.</hi> Then did <hi>Richard An<g ref="char:EOLhyphen"/>derſon</hi> the <hi>Quaker</hi> Confeſs what is here aſ<g ref="char:EOLhyphen"/>ſerted to be Truth; and alſo that when he came
+<pb n="13" facs="tcp:102580:8"/>home the firſt time from <hi>Northwillingham,</hi> he and his Family were all affrighted with reſtleſs paine, and that after they had been at the Meeting at <hi>Donnington,</hi> where Prayers were made to God for them, they were all Quieted; and, that his Wife was never at ſuch a Meeting before.</p>
+               <closer>
+                  <dateline>Witneſs my Hand <date>this 18th of <hi>Aprill, 1672.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>Thomas James</hi> of <hi>Northwillingh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi> County of <hi>Lincoln.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <p>
+                  <hi>I John Green,</hi> borne in the Town of <hi>Walesby,</hi> within two Miles of <hi>Northwillingham,</hi> in the County of <hi>Lincolne,</hi> now dwelling at the Sign of the <hi>Laſt</hi> in the <hi>New-Rents,</hi> near <hi>Deadmans<g ref="char:EOLhyphen"/>place</hi> in <hi>Southwarke,</hi> do testifie, that for this Twelve years I have known Mr. <hi>Ralph James,</hi> and had this Teſtimony from his own Mouth, now ſome Moneths ſince, and do certainly believe the Truth of it, having knowledge of him to be a Man of Good Reputation in the World, and of Blameleſs Converſation; he having been alſo an Elder of a Congregation for many years.</p>
+               <closer>
+                  <dateline>
+                     <hi>Witneſs my Hand</hi> 
+                     <date>this 10th <hi>of</hi> May, <hi>1672.</hi>
+                     </date>
+                  </dateline>
+                  <signed>John Greene.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
